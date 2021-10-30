@@ -1,0 +1,60 @@
+body{
+    width: 100%;
+}
+.orangecont{
+    display: flex;
+}
+#slide-img{
+    width: 35%;
+    height: 100vh; 
+}
+.rightside{
+    width: 65%;
+}
+.orangenav{
+    height: 100px;
+    background-color: white !important;
+    padding-left:30px ;
+    border-bottom: 2px solid black;
+}
+.navhover:hover{
+    color:#ff7900 !important;
+}
+.contform{
+    margin: auto;
+    width: 45%;
+}
+.head-formr{
+    font-weight: bold;
+    padding:  50px 0;
+}
+.btnorange{
+    width: 100%;
+    margin: 10px;
+    height: 45px;
+}
+.btnorange1{
+    background-color:#ff7900;
+    border:none;
+}
+.btnorange2{
+    color: black;
+    background-color:#ffffff;
+    border:black 2px solid;
+}
+.btn-primary:hover{
+    background-color: black;
+    color: white;
+}
+.borderorange{
+    border:solid 2px rgb(139, 139, 139)
+}
+.requiredstar{
+    color: #ff7900;
+}
+.ahreforange{
+    color: black;
+}
+.ahreforange:hover{
+    color:#ff7900 ;
+}
